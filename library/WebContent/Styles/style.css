@@ -1,0 +1,70 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin:0px;
+	font-size:18px;
+	background-color:#f5f5f5;
+}
+
+input{
+	font-size:18px;
+}
+
+tr,td{
+	margin:0px;
+	padding:0px;
+}
+
+select{
+	font-size:18px;
+}
+
+button{
+	font-size:18px;
+}
+
+h2{
+	padding:0px;
+	margin:0px;
+	font-family:inherit;
+}
+
+.container{
+	width:1000px;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: #551A8B;
+}
+
+a:active {
+    color: black;
+}
+
+a.menu {
+	color:white;
+}
+
+.menu {
+	color:white;
+}
+
+td{
+	padding:10px 0px 10px 10px;
+}
+th{
+	padding:10px 0px;
+}
